@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="hu">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#2559a9" />
+    <meta name="color-scheme" content="light" />
+    <title>Napi menü</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Roboto+Flex:opsz,wght@8..144,400;8..144,500;8..144,700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="top-app-bar">
+      <div class="top-app-bar__row">
+        <span class="material-symbols-outlined top-app-bar__icon" aria-hidden="true">restaurant</span>
+        <div class="top-app-bar__titles">
+          <h1 class="top-app-bar__title">Napi menü</h1>
+          <p class="top-app-bar__subtitle" id="day-title">Mai ebédek</p>
+        </div>
+      </div>
+      <p class="top-app-bar__week" id="week-range" hidden></p>
+      <p class="top-app-bar__meta" id="meta">Betöltés…</p>
+    </header>
+
+    <main class="shell">
+      <nav class="chip-group" id="day-nav" aria-label="Nap választó"></nav>
+      <section id="menus" class="menus" aria-live="polite"></section>
+    </main>
+
+    <footer class="foot">
+      <p>Személyes használatra · <code>npm run scrape</code></p>
+    </footer>
+
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>

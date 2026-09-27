@@ -1,0 +1,24 @@
+{
+  "name": "pakozd-napi",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Personal daily lunch menu aggregator for Pákozd / Székesfehérvár restaurants",
+  "scripts": {
+    "scrape": "tsx src/scrape.ts",
+    "serve": "npx --yes serve docs -p 4173",
+    "dev": "npm run scrape && npm run serve",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@types/node": "^26.6.3",
+    "dotenv": "^18.0.4",
+    "playwright": "^1.63.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
