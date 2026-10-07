@@ -1,32 +1,30 @@
 {
-  "generatedAt": "2026-10-06T11:40:14.505Z",
+  "generatedAt": "2026-10-07T11:30:24.205Z",
   "model": "gemini-3.5-flash-lite",
   "restaurants": [
     {
       "id": "ingoko",
       "name": "Ingó Kö Étterem",
       "sourceUrl": "https://www.facebook.com/ingoko.etterem",
-      "weekOf": "2026-10-05",
+      "weekOf": "2026-10-05 - 2026-10-09",
       "days": {
         "monday": {
           "items": [
             "Zellerkrémleves krutonnal",
             "Bácskai rizses hús",
-            "Bakonyi sertésragu Tészta"
+            "Bakonyi sertésragu tészta"
           ],
-          "price": "A menü = 2.550,- Ft, B menü = 2.600 Ft",
-          "notes": "Menü árak levessel"
+          "price": "A menü: 2.550,- Ft, B menü: 2.600,- Ft",
+          "notes": null
         },
         "tuesday": {
           "items": [
             "Reszelt tésztaleves",
-            "Fejtett babfőzelék",
-            "Fasírt",
-            "Rántott sertésborda",
-            "Majonézes burgonyasaláta"
+            "Fejtett babfőzelék fasírttal",
+            "Rántott sertésborda majonézes burgonyasalátával"
           ],
-          "price": "A menü = 2.550,- Ft, B menü = 2.600 Ft",
-          "notes": "Menü árak levessel"
+          "price": "A menü: 2.550,- Ft, B menü: 2.600,- Ft",
+          "notes": null
         },
         "wednesday": {
           "items": [
@@ -34,40 +32,44 @@
             "Mákos metélt",
             "Sült tarja tepsis burgonyával és gyökérzöldségekkel, szafttal"
           ],
-          "price": "A menü = 2.550,- Ft, B menü = 2.600 Ft",
-          "notes": "Menü árak levessel"
+          "price": "A menü: 2.550,- Ft, B menü: 2.600,- Ft",
+          "notes": null
         },
         "thursday": {
           "items": [
             "Daragaluska-leves zöldségesen",
-            "Sóskamártás",
-            "Főtt tojás",
-            "Főtt burgonya",
-            "Grillezett csirkemell póréhagymamártással",
-            "Krokett"
+            "Sóskamártás főtt tojással, főtt burgonyával",
+            "Grillezett csirkemell póréhagymamártással, krokettel"
           ],
-          "price": "A menü = 2.550,- Ft, B menü = 2.600 Ft",
-          "notes": "Menü árak levessel"
+          "price": "A menü: 2.550,- Ft, B menü: 2.600,- Ft",
+          "notes": null
         },
         "friday": {
           "items": [
             "Zöldséges tengeri halraguleves",
-            "Lecsós sertésragu",
-            "Kuszkusz",
-            "Palermói szelet",
-            "Rizs"
+            "Lecsós sertésragu kusszkusszal",
+            "Palermói szelet rizzsel"
           ],
-          "price": "A menü = 2.550,- Ft, B menü = 2.600 Ft",
-          "notes": "Menü árak levessel"
+          "price": "A menü: 2.550,- Ft, B menü: 2.600,- Ft",
+          "notes": null
+        },
+        "saturday": {
+          "items": [],
+          "price": null,
+          "notes": "Hétségi (szombat, vasárnap) menü rendelése esetén, kérjük, érdeklődjön az étteremben!"
+        },
+        "sunday": {
+          "items": [],
+          "price": null,
+          "notes": "Hétségi (szombat, vasárnap) menü rendelése esetén, kérjük, érdeklődjön az étteremben!"
         }
       },
       "standing": null,
       "dailySpecial": null,
       "weekBoard": null,
-      "rawSummary": "Az Ingó Kö Étterem 41/2026. heti menüje hétfőtől péntekig levesekkel, valamint A és B menü opciókkal.",
-      "fetchedAt": "2026-10-06T11:38:20.790Z",
-      "parseStatus": "ok",
-      "error": "Refresh returned empty; showing cached menu."
+      "rawSummary": "Az Ingó Kö Étterem 41/2026. heti menüje zellerkrémlevessel, bácskai rizses hússal, bakonyi sertésragu tésztával és többi finomsággal hétfőtől péntekig.",
+      "fetchedAt": "2026-10-07T11:27:56.319Z",
+      "parseStatus": "ok"
     },
     {
       "id": "beat",
@@ -87,52 +89,52 @@
             "Sütőtökleves levesgyönggyel",
             "Roston csirkemell, mustáros saláta, töltött rösztivel"
           ],
-          "price": "2.090.-",
-          "notes": "Napi leves: 1.290.-, Napi A menü: 2.090.-"
+          "price": "2090.-",
+          "notes": "Napi leves: 1.290.-, Napi 'A' menü: 2.090.-"
         },
         "wednesday": {
           "items": [
             "Lebbencsleves",
             "Rakott kelkáposzta"
           ],
-          "price": "2.090.-",
-          "notes": "Napi leves: 1.290.-, Napi A menü: 2.090.-"
+          "price": "2090.-",
+          "notes": "Napi leves: 1.290.-, Napi 'A' menü: 2.090.-"
         },
         "thursday": {
           "items": [
             "Vadas krémleves, zsemlegombóc",
             "Rántott sertéskaraj, hagymakarika BBQ, rizs"
           ],
-          "price": "2.090.-",
-          "notes": "Napi leves: 1.290.-, Napi A menü: 2.090.-"
+          "price": "2090.-",
+          "notes": "Napi leves: 1.290.-, Napi 'A' menü: 2.090.-"
         },
         "friday": {
           "items": [
             "Csirkeragú leves",
             "Máglyarakás"
           ],
-          "price": "2.090.-",
-          "notes": "Napi leves: 1.290.-, Napi A menü: 2.090.-"
+          "price": "2090.-",
+          "notes": "Napi leves: 1.290.-, Napi 'A' menü: 2.090.-"
         }
       },
       "standing": {
-        "title": "Heti 'B' fix",
+        "title": "Heti 'B' Fix",
         "items": [
           "Temesvári tokány, rizzsel"
         ],
-        "notes": "2.090.-"
+        "notes": "Heti 'B' Fix ár: 2.090.-"
       },
       "dailySpecial": null,
       "weekBoard": {
         "items": [
-          "Rántott csirkecomb, petrezselymes burgonyával, csemegeuborkával",
-          "Kung Bo csirke dobva-rázva, hasábburgonyával"
+          "Rántott csirkecomb, petrezselymes burgonyával, csemegeuborkával ('C' menü)",
+          "Kung Bo csirke dobva-rázva, hasábburgonyával ('D' menü)"
         ],
-        "price": null,
-        "notes": "'C' menü: 3.790.-, 'D' menü: 3.990.-"
+        "price": "'C' menü: 3.790.-, 'D' menü: 3.990.-",
+        "notes": "Az alap menü (napi leves + 'A' vagy 'heti fix B' menü): 3.380.- Ft. Napi menü leves helyett kérhető menü beat húsleves csészében 1390.- Ft-ért. Elvitel esetén tételenként 490.- Ft díjat számolunk fel, mely tartalmazza a csomagoló anyagot is."
       },
-      "rawSummary": "A bEAT étterem 41. heti menüje október 5. és 9. között. Hétfőn zárva vannak, keddtől péntekig napi levesek, 'A' menük, heti fix 'B' menü, valamint 'C' és 'D' menüajánlatok érhetők el.",
-      "fetchedAt": "2026-10-06T11:38:31.653Z",
+      "rawSummary": "A bEAT étterem 41. heti menüje október 5. és 9. között. Hétfőn zárva vannak, keddtől péntekig napi levesek, 'A' menük, heti 'B' fix, valamint 'C' és 'D' menük érhetők el.",
+      "fetchedAt": "2026-10-07T11:28:10.918Z",
       "parseStatus": "ok"
     },
     {
@@ -193,15 +195,15 @@
       "standing": null,
       "dailySpecial": null,
       "weekBoard": null,
-      "rawSummary": "A Bányató Vendéglő heti menüje október 5-e és október 9-e között, ára 3100 Ft.",
-      "fetchedAt": "2026-10-06T11:38:44.722Z",
+      "rawSummary": "A Bányató Vendéglő heti menüje október 5 és október 9 között, ára 3100 Ft.",
+      "fetchedAt": "2026-10-07T11:28:23.815Z",
       "parseStatus": "ok"
     },
     {
       "id": "sigma67",
       "name": "67 Sigma",
       "sourceUrl": "https://67sigma.hu/heti-ebedmenu/",
-      "weekOf": "2026-10-06",
+      "weekOf": "Október 06. – Október 09.",
       "days": {},
       "standing": null,
       "dailySpecial": null,
@@ -210,7 +212,7 @@
           "Zöldséges daragaluska leves (G) - 1.800 Ft",
           "Francia hagymaleves (L, G) - 1.800 Ft",
           "Csirkemell fasirt, cukkíni főzelék (G, L) - 3.000 Ft",
-          "Cordon bleu, rizibizi (L, G) - 3.000 Ft",
+          "Cordon bleu, rizibizi (L, G) - 3,000 Ft",
           "Paradicsomos spaghetti, parmezán (L, G) - 2.600 Ft",
           "Banánkenyér, sóskaramell (G, L) - 1.600 Ft",
           "Almás morzsatorta (L, G) - 1.600 Ft"
@@ -218,8 +220,8 @@
         "price": null,
         "notes": "Allergén információ: G – glutént tartalmaz, L – laktózt tartalmaz"
       },
-      "rawSummary": "67 Sigma weekly lunch menu for October 6 - October 9, including soups, mains, and desserts with individual item prices and allergen notes.",
-      "fetchedAt": "2026-10-06T11:39:04.380Z",
+      "rawSummary": "A 67 Sigma heti ebédmenüje levest, főételeket és desszerteket tartalmaz október 6. és október 9. között.",
+      "fetchedAt": "2026-10-07T11:28:43.892Z",
       "parseStatus": "ok"
     },
     {
@@ -233,39 +235,39 @@
             "póréhagymás burgonyakrémleves",
             "csirkés tortilla, hasábburgonya"
           ],
-          "price": "2590.- / adag",
-          "notes": "csomagolás + csomagolás"
+          "price": "2590.- / adag + csomagolás",
+          "notes": "elvitel: 11:30-tól a készlet erejéig! a házhozszállítás INGYENES!"
         },
         "wednesday": {
           "items": [
             "zöldborsófőzelék, sült virsli",
             "kókuszgolyó"
           ],
-          "price": "2590.- / adag",
-          "notes": "csomagolás + csomagolás"
+          "price": "2590.- / adag + csomagolás",
+          "notes": "elvitel: 11:30-tól a készlet erejéig! a házhozszállítás INGYENES!"
         },
         "thursday": {
           "items": [
             "csirkemájas tárkonyos leves",
             "rántott csirkecombfilé, kukoricás rizs"
           ],
-          "price": "2590.- / adag",
-          "notes": "csomagolás + csomagolás"
+          "price": "2590.- / adag + csomagolás",
+          "notes": "elvitel: 11:30-tól a készlet erejéig! a házhozszállítás INGYENES!"
         },
         "friday": {
           "items": [
             "őszibarackkrémleves",
             "cigánypecsenye, fokhagymás tört buri"
           ],
-          "price": "2590.- / adag",
-          "notes": "csomagolás + csomagolás"
+          "price": "2590.- / adag + csomagolás",
+          "notes": "elvitel: 11:30-tól a készlet erejéig! a házhozszállítás INGYENES!"
         }
       },
       "standing": null,
       "dailySpecial": null,
       "weekBoard": null,
-      "rawSummary": "A pont.pizza heti menüje 10.06-tól 10.09-ig tart, ára 2590.- Ft / adag + csomagolás. Ingyenes házhozszállítás a megjelölt településeken.",
-      "fetchedAt": "2026-10-06T11:39:22.693Z",
+      "rawSummary": "A Pont.pizza heti menüje 10.06 és 10.09 között napokra bontva érhető el, az ár 2590 Ft adagonként plusz csomagolás.",
+      "fetchedAt": "2026-10-07T11:29:01.023Z",
       "parseStatus": "ok"
     },
     {
@@ -276,16 +278,16 @@
       "days": {
         "monday": {
           "items": [
-            "LEVES: Zöldségleves",
-            "A menü: Holstein sertésborda hasábburgonyával ,Savanyúság",
-            "B menü: Sajttal és gombával töltött csirkemell rántva jázmin rizzsel,Savanyúság"
+            "Leves: Zöldségleves",
+            "A menü: Holstein sertésborda hasábburgonyával, Savanyúság",
+            "B menü: Sajttal és gombával töltött csirkemell rántva jázmin rizzsel, Savanyúság"
           ],
           "price": "4050 Ft / adag",
           "notes": "Menü ára elvitelre 4250 Ft / adag"
         },
         "tuesday": {
           "items": [
-            "LEVES: Zöldbableves",
+            "Leves: Zöldbableves",
             "A menü: Roston sült jércemell sütőtökkel és baconnal sütve burgonyapürével",
             "B menü: Töltött káposzta tejföllel"
           ],
@@ -294,17 +296,17 @@
         },
         "wednesday": {
           "items": [
-            "LEVES: Újházy tyúkhúsleves",
-            "A menü: Fejtett babfőzelék füstölt csülökkel ,Aranygaluska vanília sodóval",
-            "B menü: Corn flakes bundában rántott jércemell friss salátával és jázmin rizzsel,Aranygaluska vanília sodóval"
+            "Leves: Újházy tyúkhúsleves",
+            "A menü: Fejtett babfőzelék füstölt csülökkel, Aranygaluska vanília sodóval",
+            "B menü: Corn flakes bundában rántott jércemell friss salátával és jázmin rizzsel, Aranygaluska vanília sodóval"
           ],
           "price": "4050 Ft / adag",
           "notes": "Menü ára elvitelre 4250 Ft / adag"
         },
         "thursday": {
           "items": [
-            "LEVES: Sajtkrémleves fűszeres krutonnal",
-            "A menü: Velővel töltött sertésborda petrezselymes burgonyával,Savanyúság",
+            "Leves: Sajtkrémleves fűszeres krutonnal",
+            "A menü: Velővel töltött sertésborda petrezselymes burgonyával, Savanyúság",
             "B menü: Roston sült csirkemell almás-körtés raguval és krokettel"
           ],
           "price": "4050 Ft / adag",
@@ -312,7 +314,7 @@
         },
         "friday": {
           "items": [
-            "LEVES: Tejszínes-tárkonyos csirkeraguleves",
+            "Leves: Tejszínes-tárkonyos csirkeraguleves",
             "A menü: Borzas csirkemell tejföllel és reszelt sajttal jázmin rizzsel",
             "B menü: Borzas csirkemell tejföllel és reszelt sajttal jázmin rizzsel"
           ],
@@ -323,34 +325,34 @@
       "standing": {
         "title": "Állandó opciók és desszertek",
         "items": [
-          "Palacsinta 2 db (kakaós, lekváros ízben) 1100 Ft /adag",
-          "Palacsinta 2 db (nutellás ízben) 1400 Ft/adag",
+          "Palacsinta 2 db (kakaós, lekváros ízben)",
+          "Palacsinta 2 db (nutellás ízben)",
           "Rántott szelet (csirkemell) hasábburgonyával, savanyúsággal (húslevessel választható)",
           "Rántott sajt hasábburgonyával, tartármártással (húslevessel választható)",
           "Fitness menü: Szuvidált csirkemell steak idény jellegű friss salátával (húslevessel vagy napi levessel választható)"
         ],
-        "notes": "Húslevessel választható rántott szelet vagy sajt 4250 Ft-ért. Húslevessel vagy napi levessel választható fitness menü 4400 Ft-ért."
+        "notes": "Palacsinta kakaós/lekváros 1100 Ft/adag, nutellás 1400 Ft/adag. Húslevessel választható főételek: 4250 Ft, Fitness menü levessel: 4400 Ft."
       },
       "dailySpecial": null,
       "weekBoard": null,
-      "rawSummary": "A Kiskulacs Vendéglő 41. heti menüje hétfőtől péntekig érhető el napi leves és A/B menü opciókkal, 4050 Ft-os helyben fogyasztási áron.",
-      "fetchedAt": "2026-10-06T11:39:36.239Z",
+      "rawSummary": "A Kiskulacs Vendéglő 41. heti menüje hétfőtől péntekig érhető el, napi A és B menü opciókkal, valamint húsleves és desszert kiegészítésekkel.",
+      "fetchedAt": "2026-10-07T11:29:14.284Z",
       "parseStatus": "ok"
     },
     {
       "id": "littlebeat",
       "name": "Little bEAT",
       "sourceUrl": "https://littlebeat.hu/",
-      "weekOf": "2025-10-05 - 2025-10-09",
+      "weekOf": "2026-10-05 - 2026-10-09",
       "days": {
         "monday": {
           "items": [
             "Húsleves gazdagon",
             "Kéksajt-mártásos csirkés penne",
-            "Magyaros burgonyafőzelék Stefánia vagdalthttal"
+            "Magyaros burgonyafőzelék Stefánia vagdalttal"
           ],
-          "price": "Alap menü (leves + A/B): 3380 Ft, Leves: 1290 Ft, A/B menü: 2090 Ft",
-          "notes": null
+          "price": "3380 Ft",
+          "notes": "Napi leves + A vagy B menü"
         },
         "tuesday": {
           "items": [
@@ -358,8 +360,8 @@
             "Rántott préselt-csülök, fokhagymás tepsis burgonya, cékla saláta",
             "Mézes dióval grillezett camembert jázmin rizzsel, áfonya lekvárral"
           ],
-          "price": "Alap menü (leves + A/B): 3380 Ft, Leves: 1290 Ft, A/B menü: 2090 Ft",
-          "notes": null
+          "price": "3380 Ft",
+          "notes": "Napi leves + A vagy B menü"
         },
         "wednesday": {
           "items": [
@@ -367,8 +369,8 @@
             "Sertéssült hagymás tört burgonyával és párolt lilakáposztával",
             "Túrógombóc fahéjas tejföllel"
           ],
-          "price": "Alap menü (leves + A/B): 3380 Ft, Leves: 1290 Ft, A/B menü: 2090 Ft",
-          "notes": null
+          "price": "3380 Ft",
+          "notes": "Napi leves + A vagy B menü"
         },
         "thursday": {
           "items": [
@@ -376,8 +378,8 @@
             "Milánói sertésborda",
             "Rakott burgonya, tejföllel"
           ],
-          "price": "Alap menü (leves + A/B): 3380 Ft, Leves: 1290 Ft, A/B menü: 2090 Ft",
-          "notes": null
+          "price": "3380 Ft",
+          "notes": "Napi leves + A vagy B menü"
         },
         "friday": {
           "items": [
@@ -385,15 +387,15 @@
             "Sajtkrémmel - baconnel töltött csirkemell petrezselymes jázmin rizzsel",
             "Tejfölös gombapaprikás galuskával"
           ],
-          "price": "Alap menü (leves + A/B): 3380 Ft, Leves: 1290 Ft, A/B menü: 2090 Ft",
-          "notes": null
+          "price": "3380 Ft",
+          "notes": "Napi leves + A vagy B menü"
         }
       },
       "standing": null,
       "dailySpecial": null,
       "weekBoard": null,
-      "rawSummary": "A Little bEAT heti ebédemüje hétfőtől péntekig érhető el, napi levessel, valamint A és B menü opciókkal.",
-      "fetchedAt": "2026-10-06T11:39:55.751Z",
+      "rawSummary": "A Little bEAT heti ebédmenüje október 5-e és 9-e között. Napi leves ára 1290 Ft, A és B menü ára egyenként 2090 Ft, míg az alap menü (leves + A vagy B menü) 3380 Ft.",
+      "fetchedAt": "2026-10-07T11:29:54.712Z",
       "parseStatus": "ok"
     },
     {
@@ -445,9 +447,8 @@
       "dailySpecial": null,
       "weekBoard": null,
       "rawSummary": "Placc heti menü (10.05.-10.09.): mix & match + napi specialok.",
-      "fetchedAt": "2026-10-06T11:40:13.195Z",
-      "parseStatus": "ok",
-      "error": "Refresh returned empty; showing cached menu."
+      "fetchedAt": "2026-10-07T11:30:24.175Z",
+      "parseStatus": "ok"
     }
   ]
 }
