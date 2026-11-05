@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T12:44:34.306Z",
+  "generatedAt": "2026-11-05T13:13:18.797Z",
   "model": "gemini-3.5-flash-lite",
   "restaurants": [
     {
@@ -63,8 +63,9 @@
       "dailySpecial": null,
       "weekBoard": null,
       "rawSummary": "Az Ingó Kö Étterem 2026. november 2-6. közötti heti menüje levesekkel, valamint A és B menü opciókkal.",
-      "fetchedAt": "2026-11-04T12:42:47.443Z",
-      "parseStatus": "ok"
+      "fetchedAt": "2026-11-05T12:52:46.695Z",
+      "parseStatus": "ok",
+      "error": "Refresh failed, showing cached menu. [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent: [503 Service Unavailable] This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
     },
     {
       "id": "beat",
@@ -77,40 +78,40 @@
             "Sütőtökleves",
             "Szezámmagos rántott csirkemell, zöldséges rizzsel"
           ],
-          "price": "3380.- Ft (Alap menü: napi leves + \"A\" vagy \"Heti fix B\" menü)",
-          "notes": "Napi leves: 1.290.-, Napi 'A' menü: 2.090.-"
+          "price": "3380.- FT",
+          "notes": "Alap menü: napi leves + 'A' menü"
         },
         "tuesday": {
           "items": [
             "Currys zöldségleves",
             "Hentestokány, krokettel"
           ],
-          "price": "3380.- Ft (Alap menü: napi leves + \"A\" vagy \"Heti fix B\" menü)",
-          "notes": "Napi leves: 1.290.-, Napi 'A' menü: 2.090.-"
+          "price": "3380.- FT",
+          "notes": "Alap menü: napi leves + 'A' menü"
         },
         "wednesday": {
           "items": [
             "Kelvirág leves",
             "Szaftos hamburgerhúsos ravioli tészta, cheddar sajttal"
           ],
-          "price": "3380.- Ft (Alap menü: napi leves + \"A\" vagy \"Heti fix B\" menü)",
-          "notes": "Napi leves: 1.290.-, Napi 'A' menü: 2.090.-"
+          "price": "3380.- FT",
+          "notes": "Alap menü: napi leves + 'A' menü"
         },
         "thursday": {
           "items": [
             "Zöldbableves",
             "Csülökpörkölt, sós burgonyával"
           ],
-          "price": "3380.- Ft (Alap menü: napi leves + \"A\" vagy \"Heti fix B\" menü)",
-          "notes": "Napi leves: 1.290.-, Napi 'A' menü: 2.090.-"
+          "price": "3380.- FT",
+          "notes": "Alap menü: napi leves + 'A' menü"
         },
         "friday": {
           "items": [
             "Zúzaleves",
             "Burgonyás tészta"
           ],
-          "price": "3380.- Ft (Alap menü: napi leves + \"A\" vagy \"Heti fix B\" menü)",
-          "notes": "Napi leves: 1.290.-, Napi 'A' menü: 2.090.-"
+          "price": "3380.- FT",
+          "notes": "Alap menü: napi leves + 'A' menü"
         }
       },
       "standing": {
@@ -118,7 +119,7 @@
         "items": [
           "Zöldborsófőzelék, kolbásszal, tojással"
         ],
-        "notes": "Heti 'B' fix ára külön: 2.090.-"
+        "notes": "Heti B fix ára önmagában 2.090.-, leves + B menü kombó 3.380.- FT"
       },
       "dailySpecial": null,
       "weekBoard": {
@@ -126,11 +127,11 @@
           "Marhahús meggymártással, darával",
           "Pulled beef, római lepénnyel, sajttal"
         ],
-        "price": "'C' menü: 3.790.-, 'D' menü: 3.990.-",
-        "notes": "Komolyabb tételek a napi leves mellé."
+        "price": "C menü: 3.790.-, D menü: 3.990.-",
+        "notes": "A napi leves mellé választható C vagy D menü."
       },
-      "rawSummary": "A bEAT 45. heti menüje (november 2. - 6.) napi levesekkel, A és B menükkel, valamint C és D különleges fogásokkal.",
-      "fetchedAt": "2026-11-04T12:42:59.394Z",
+      "rawSummary": "A bEAT 45. heti menüje november 2. és 6. között. Napi levesek 1290.-, Napi 'A' menü 2090.-, Heti 'B' fix 2090.-, C menü 3790.-, D menü 3990.- Ft.",
+      "fetchedAt": "2026-11-05T12:56:13.953Z",
       "parseStatus": "ok"
     },
     {
@@ -194,8 +195,9 @@
       "dailySpecial": null,
       "weekBoard": null,
       "rawSummary": "A Bányató Vendéglő heti menüje november 2. és november 6. között, ára 3100 Ft.",
-      "fetchedAt": "2026-11-04T12:43:11.715Z",
-      "parseStatus": "ok"
+      "fetchedAt": "2026-11-05T12:57:04.228Z",
+      "parseStatus": "ok",
+      "error": "Refresh failed, showing cached menu. [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent: [503 Service Unavailable] This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
     },
     {
       "id": "sigma67",
@@ -219,8 +221,9 @@
         "notes": "Allergén információ: G – glutént tartalmaz, L – laktózt tartalmaz"
       },
       "rawSummary": "A 67 Sigma heti ebédmenüje november 3-a és november 6-a között kínál leveseket, főételeket és desszerteket feltüntetett árakkal és allergénekkel.",
-      "fetchedAt": "2026-11-04T12:43:28.279Z",
-      "parseStatus": "ok"
+      "fetchedAt": "2026-11-05T13:00:51.769Z",
+      "parseStatus": "ok",
+      "error": "Refresh failed, showing cached menu. [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent: [503 Service Unavailable] This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
     },
     {
       "id": "pontpizza",
@@ -228,13 +231,18 @@
       "sourceUrl": "https://pontpizza.hu/heti-menu/",
       "weekOf": "11.03-11.06",
       "days": {
+        "monday": {
+          "items": [],
+          "price": null,
+          "notes": "Zárva"
+        },
         "tuesday": {
           "items": [
             "májgombóc leves",
             "mézes-mustáros csirke, jázmin rizs"
           ],
           "price": "2590.- / adag. + csomagolás",
-          "notes": "elvitel: 11:30-tól a készlet erejéig! a házhozszállítás INGYENES! (Pákozd, Kisfalud, Sukoró, Dinnyés, Nadap, Velence, Agárd, Gárdony, Kápolnásnyék és Szfv Öreghegy)"
+          "notes": "elvitel: 11:30-tól a készlet erejéig! a házhozszállítás INGYENES!"
         },
         "wednesday": {
           "items": [
@@ -242,7 +250,7 @@
             "brassói aprópecsenye"
           ],
           "price": "2590.- / adag. + csomagolás",
-          "notes": "elvitel: 11:30-tól a készlet erejéig! a házhozszállítás INGYENES! (Pákozd, Kisfalud, Sukoró, Dinnyés, Nadap, Velence, Agárd, Gárdony, Kápolnásnyék és Szfv Öreghegy)"
+          "notes": "elvitel: 11:30-tól a készlet erejéig! a házhozszállítás INGYENES!"
         },
         "thursday": {
           "items": [
@@ -250,7 +258,7 @@
             "mákos guba, vanília sodó"
           ],
           "price": "2590.- / adag. + csomagolás",
-          "notes": "elvitel: 11:30-tól a készlet erejéig! a házhozszállítás INGYENES! (Pákozd, Kisfalud, Sukoró, Dinnyés, Nadap, Velence, Agárd, Gárdony, Kápolnásnyék és Szfv Öreghegy)"
+          "notes": "elvitel: 11:30-tól a készlet erejéig! a házhozszállítás INGYENES!"
         },
         "friday": {
           "items": [
@@ -258,14 +266,14 @@
             "milánói sertésborda"
           ],
           "price": "2590.- / adag. + csomagolás",
-          "notes": "elvitel: 11:30-tól a készlet erejéig! a házhozszállítás INGYENES! (Pákozd, Kisfalud, Sukoró, Dinnyés, Nadap, Velence, Agárd, Gárdony, Kápolnásnyék és Szfv Öreghegy)"
+          "notes": "elvitel: 11:30-tól a készlet erejéig! a házhozszállítás INGYENES!"
         }
       },
       "standing": null,
       "dailySpecial": null,
       "weekBoard": null,
-      "rawSummary": "A Pont.pizza heti menüje keddtől péntekig tart, napi levessel és főétellel 2590.- Ft-os áron. Ingyenes házhozszállítással a környező településekre.",
-      "fetchedAt": "2026-11-04T12:43:45.791Z",
+      "rawSummary": "A Pont.pizza heti menüje keddtől péntekig kínál levest és főételt 2590 Ft-os áron adagonként, ingyenes házhozszállítással.",
+      "fetchedAt": "2026-11-05T13:04:11.305Z",
       "parseStatus": "ok"
     },
     {
@@ -333,14 +341,15 @@
       "dailySpecial": null,
       "weekBoard": null,
       "rawSummary": "A Kiskulacs Vendéglő 45. heti menüje (2026.11.02 - 2026.11.06) húslevessel/napi levessel és A/B menü opciókkal várja a vendégeket, helyben 4050 Ft-os áron.",
-      "fetchedAt": "2026-11-04T12:43:59.697Z",
-      "parseStatus": "ok"
+      "fetchedAt": "2026-11-05T13:06:49.717Z",
+      "parseStatus": "ok",
+      "error": "Refresh failed, showing cached menu. [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent: [503 Service Unavailable] This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
     },
     {
       "id": "littlebeat",
       "name": "Little bEAT",
       "sourceUrl": "https://littlebeat.hu/",
-      "weekOf": "2026-11-02",
+      "weekOf": "2026-11-02 - 2026-11-06",
       "days": {
         "monday": {
           "items": [
@@ -391,8 +400,8 @@
       "standing": null,
       "dailySpecial": null,
       "weekBoard": null,
-      "rawSummary": "A Little bEAT november 2-től 6-ig tartó heti ebédemüje nap lebontásban levest, A menüt és B menüt tartalmaz.",
-      "fetchedAt": "2026-11-04T12:44:16.854Z",
+      "rawSummary": "Little bEAT weekly lunch menu for November 2-6, offering a soup and choice of A or B menu for 3,380 Ft.",
+      "fetchedAt": "2026-11-05T13:09:11.909Z",
       "parseStatus": "ok"
     },
     {
@@ -444,8 +453,9 @@
       "dailySpecial": null,
       "weekBoard": null,
       "rawSummary": "Placc heti menü (11.02.-11.06.): mix & match + napi specialok.",
-      "fetchedAt": "2026-11-04T12:44:34.271Z",
-      "parseStatus": "ok"
+      "fetchedAt": "2026-11-05T13:10:46.571Z",
+      "parseStatus": "ok",
+      "error": "Refresh failed, showing cached menu. [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent: [503 Service Unavailable] This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
     }
   ]
 }
