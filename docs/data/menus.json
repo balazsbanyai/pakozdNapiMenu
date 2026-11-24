@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T15:49:35.996Z",
+  "generatedAt": "2026-11-24T15:43:59.603Z",
   "model": "gemini-3.5-flash-lite",
   "restaurants": [
     {
@@ -68,8 +68,9 @@
       "dailySpecial": null,
       "weekBoard": null,
       "rawSummary": "Az Ingó Kö Étterem 44. heti menüje hétfőtől péntekig kínál levest, valamint A és B menü opciókat. A menük ára levessel 2550-2600 Ft, leves nélkül 1950-2000 Ft.",
-      "fetchedAt": "2026-11-23T15:35:20.083Z",
-      "parseStatus": "ok"
+      "fetchedAt": "2026-11-24T15:28:15.316Z",
+      "parseStatus": "ok",
+      "error": "Refresh returned empty; showing cached menu."
     },
     {
       "id": "beat",
@@ -130,8 +131,9 @@
       "dailySpecial": null,
       "weekBoard": null,
       "rawSummary": "A bEAT étterem 48. heti menüje (november 23-27.) napra lebontott levesekkel és 'A' menükkel, valamint fix heti 'B', 'C' és 'D' menü ajánlatokkal.",
-      "fetchedAt": "2026-11-23T15:37:02.192Z",
-      "parseStatus": "ok"
+      "fetchedAt": "2026-11-24T15:28:27.467Z",
+      "parseStatus": "ok",
+      "error": "Refresh failed, showing cached menu. [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent: [503 Service Unavailable] This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
     },
     {
       "id": "banyato",
@@ -194,8 +196,9 @@
       "dailySpecial": null,
       "weekBoard": null,
       "rawSummary": "A Bányató Vendéglő heti menüje november 23 és november 27 között, ára 3100 Ft, elérhető 11:30 és 14:00 között.",
-      "fetchedAt": "2026-11-23T15:37:46.915Z",
-      "parseStatus": "ok"
+      "fetchedAt": "2026-11-24T15:30:44.669Z",
+      "parseStatus": "ok",
+      "error": "Refresh failed, showing cached menu. [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent: [503 Service Unavailable] This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
     },
     {
       "id": "sigma67",
@@ -219,8 +222,9 @@
         "notes": "Allergén információ: G – glutént tartalmaz, L – laktózt tartalmaz"
       },
       "rawSummary": "A 67 Sigma heti ebédmenüje levest, főételeket és desszerteket tartalmaz árakkal és allergén jelölésekkel.",
-      "fetchedAt": "2026-11-23T15:38:49.672Z",
-      "parseStatus": "ok"
+      "fetchedAt": "2026-11-24T15:33:09.038Z",
+      "parseStatus": "ok",
+      "error": "Refresh failed, showing cached menu. [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent: [503 Service Unavailable] This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
     },
     {
       "id": "pontpizza",
@@ -271,8 +275,9 @@
       "dailySpecial": null,
       "weekBoard": null,
       "rawSummary": "A Pont.pizza heti menüje 11.24-től 11.27-ig tart keddtől péntekig, kedden francia hagymaleves és rántott cordon bleu burgonyapürével, szerdán paradicsomleves és roston csirke jázmin rizzsel és grill zöldséggel, csütörtökön székelykáposzta és gundel palacsinta, pénteken zöldségleves és zöldborsófőzelék sült virslivel. Egész héten elérhető B menü is rántott sajttal, rizzsel és majonézes kukoricasalátával.",
-      "fetchedAt": "2026-11-23T15:41:14.571Z",
-      "parseStatus": "ok"
+      "fetchedAt": "2026-11-24T15:36:53.951Z",
+      "parseStatus": "ok",
+      "error": "Refresh failed, showing cached menu. [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent: [503 Service Unavailable] This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
     },
     {
       "id": "kiskulacs",
@@ -339,8 +344,9 @@
       "dailySpecial": null,
       "weekBoard": null,
       "rawSummary": "A Kiskulacs Vendéglő 48. heti menüje (2026.11.23 - 2026.11.27) levesekkel, A és B menü opciókkal 4050 Ft-os helyben fogyasztási áron.",
-      "fetchedAt": "2026-11-23T15:43:35.591Z",
-      "parseStatus": "ok"
+      "fetchedAt": "2026-11-24T15:39:13.024Z",
+      "parseStatus": "ok",
+      "error": "Refresh failed, showing cached menu. [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent: [503 Service Unavailable] This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
     },
     {
       "id": "littlebeat",
@@ -398,7 +404,7 @@
       "dailySpecial": null,
       "weekBoard": null,
       "rawSummary": "Little bEAT ebédmenü November 16-tól 20-ig, napi levessel, A és B menü opciókkal.",
-      "fetchedAt": "2026-11-23T15:45:59.465Z",
+      "fetchedAt": "2026-11-24T15:41:35.944Z",
       "parseStatus": "ok",
       "error": "Refresh failed, showing cached menu. [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent: [503 Service Unavailable] This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
     },
@@ -451,8 +457,9 @@
       "dailySpecial": null,
       "weekBoard": null,
       "rawSummary": "Placc heti menü (11.23.-11.27.): mix & match + napi specialok.",
-      "fetchedAt": "2026-11-23T15:49:35.965Z",
-      "parseStatus": "ok"
+      "fetchedAt": "2026-11-24T15:43:58.231Z",
+      "parseStatus": "ok",
+      "error": "Refresh returned empty; showing cached menu."
     }
   ]
 }
